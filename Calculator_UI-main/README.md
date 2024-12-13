@@ -1,15 +1,8 @@
 # Calculator_UI
 
 
-Hello there, I'm Shubham and I've created a Calculator app using the SwiftUI Framework.
+Hello there, I'm Akhilesh and I've created a Calculator app using the SwiftUI Framework.
     
-I hope you'll learn something new and use this app to create something cool of your own.
-If you like my work, and would like to see more content you can follow me here - 
-
-
-## Reach me via 👇🏻
-
-[![Instagram](https://raw.githubusercontent.com/Shubham0812/SearchX/master/insta.png)](https://www.instagram.com/shubham_iosdev/) [![Linkedin](https://raw.githubusercontent.com/Shubham0812/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/shubham0812/)
 
 
 ## Motivation
@@ -28,4 +21,4 @@ I wanted to create a project so that other devs will be able to learn from it an
 Liked the project? Just give it a star ⭐️ and spread the word!
 
 ## Credits
-© Shubham Kumar Singh | 2021
+© Akhilesh Yelamali | 2024
